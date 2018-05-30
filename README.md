@@ -32,7 +32,7 @@ The code is composed by:
 
 ## Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
-+ Linkedin: [David Ghedalia](https://www.linkedin.com/in/davegimo/)
-+ Linkedin: [Marco Cuoci](https://www.linkedin.com/in/davegimo/)
++ Linkedin: [David Ghedalia](https://www.linkedin.com/in/david-ghedalia/)
++ Linkedin: [Marco Cuoci](https://www.linkedin.com/in/marco-cuoci-259231151/)
 
 
