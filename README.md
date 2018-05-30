@@ -31,8 +31,8 @@ The code is composed by:
 
 
 ## Project Members - Contacts
-Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
-Linkedin: [David Ghedalia](https://www.linkedin.com/in/davegimo/)
-Linkedin: [Marco Cuoci](https://www.linkedin.com/in/davegimo/)
++ Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
++ Linkedin: [David Ghedalia](https://www.linkedin.com/in/davegimo/)
++ Linkedin: [Marco Cuoci](https://www.linkedin.com/in/davegimo/)
 
 
