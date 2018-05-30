@@ -1,6 +1,6 @@
 # RemoteControlService
 
-Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sààapienza Università di Roma
+Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sapienza Università di Roma
 
 ## Idea
 
