@@ -26,7 +26,7 @@ The code is composed by:
 + Smartphone
 
 ## Architecture
-![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/diagramma_rcs.png "architecture")
+![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/d.png "architecture")
 
 
 
