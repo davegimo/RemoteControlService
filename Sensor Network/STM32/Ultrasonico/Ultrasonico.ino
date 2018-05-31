@@ -61,10 +61,10 @@ void loop() {
 	}
 	
 	if (vecchiaDistanza-distanza> SONIC_DELTA){
-		Serial.println("--------------------");
-		Serial.println("**ALERT**");
+		Serial.println(F("--------------------"));
+		Serial.println(F("**ALERT**"));
 		Serial.println("Detected movement at " + String(distanza/100) + " Meters");
-		Serial.println("--------------------");
+		Serial.println(F("--------------------"));
 	}
 	delay(100);
 }
