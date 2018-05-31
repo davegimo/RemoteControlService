@@ -7,7 +7,7 @@ Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sap
 The idea is to create a cheap monitoring system that sends messages and photos on Telegram whenever somebody enters in a room using IOT hardware devices.
 
 ## Presentation
-You can check the SlideShare presentation --da caricare--[here](https://www.slideshare.net/DavideGimondo/ibm-watson-iot)
+You can check the SlideShare presentation [here](https://www.slideshare.net/DavideGimondo/remote-control-service)
 
 ## Code
 The code is composed by:
