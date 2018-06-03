@@ -27,7 +27,11 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 ## Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
+Basically, whenever the sensor detects a movement, the Nucleo Board will send a HTTP Request to the Back-end.
+The IOT-Application will send to the Telegram chat the current snapshot.
+Same thing happens when the user sends a command message to the Telegram Bot.
 
+On the side of the Raspberry, it will send every second the current snapshot. This way the Application of our Back-End is always updated and doesn't have to send an explicit request to the Raspberry.
 ## Hardware 
 
 + Webcam
