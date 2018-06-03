@@ -21,7 +21,7 @@ This feature has been implemented and then presented for the final submission.
 The idea was born during a talk with other colleagues; most of them, who shared a room or an apartment with other students,
 agreed that there is a lack of cheap solutions to improve security in this kind of context. 
 
-## Presentation
+# Presentation
 You can check the SlideShare presentation [here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
 
 ## Architecture
@@ -77,7 +77,7 @@ The code is composed by:
 
 + STM Nucleo Board code
 + Raspberry Pi 3 code
-+ IOT Hub code
++ IOT Hub & Application code
 + Telegram Manager code
 
 
