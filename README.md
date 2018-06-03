@@ -1,5 +1,4 @@
-# RemoteControlService    <img src="https://github.com/davegimo/RemoteControlService/blob/master/Installare-telecamere-di-sicurezza-ip.jpg" alt="Drawing" width="100" height="100"/>
-
+# RemoteControlService  
 
 ### Abstract
 Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sapienza Università di Roma
