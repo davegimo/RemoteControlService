@@ -56,10 +56,10 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 
 
 <p float="left">
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/botfather.jpeg" width="300" height="400" />
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/botfather.jpg" width="200" height="290" />
   &emsp;
   &emsp;
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/microsoft-azure.jpeg" width="600" height="300"/> 
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/microsoft-azure.jpg" width="400" height="200"/> 
   
 </p>
 
