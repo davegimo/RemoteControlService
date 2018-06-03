@@ -43,7 +43,7 @@ On the side of the Raspberry, it will send every second the current snapshot. Th
 
 ##### Raspberry Pi 3 is connected to the webcam    &emsp; &emsp; &emsp;     STM Nucleo Board connected to movement sensors
 <p float="left">
-  <img src="https://github.com/davegimo/RemoteControlService/blob/photos/master/rasp2.jpeg" width="300" height="300" />
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/rasp2.jpeg" width="300" height="300" />
   &emsp;
   &emsp;
   <img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/nucleo2.jpeg" width="300" height="300"/> 
@@ -103,5 +103,5 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + Linkedin: [Marco Cuoci](https://www.linkedin.com/in/marco-cuoci-259231151/)
 
  ##
- ![Logo](https://github.com/davegimo/RemoteControlService/blob/master/photos/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com.png "Sapienza")
+ ![Logo](https://github.com/davegimo/RemoteControlService/blob/master/photos/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com%20(1).png "Sapienza")
 
