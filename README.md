@@ -24,7 +24,7 @@ agreed that there is a lack of cheap solutions to improve security in this kind 
 # Presentation
 You can check the SlideShare presentation [here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
 
-## Architecture
+# Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
 Whenever the sensor detects a movement, the Nucleo Board will send an HTTP Request to the Back-end.<br>
@@ -80,10 +80,24 @@ The code is composed by:
 + IOT Hub & Application code
 + Telegram Manager code
 
+## Telegram
+Our Telegram chat overview:
+
+Based on the payload message we get in the chat we understand what kind of snapshot we received:
+
+-"Eccoti servito!" in this case the user made an explicit request by sending the command inside the chat
+-"movement detected!" in this case our movement sensor has detected something
+
+<img src="https://github.com/davegimo/RemoteControlService/blob/master/telegram_foto.jpeg" width="180" height="360" />
+
+### Commands
+
++ send photo : it will send the current snapshot
++ start : webcam will start recording up to 30 seconds
++ stop : webcam stops recording and sends the video to the chat
 
 
-
-## Project Members - Contacts
+# Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
 + Linkedin: [David Ghedalia](https://www.linkedin.com/in/david-ghedalia/)
 + Linkedin: [Marco Cuoci](https://www.linkedin.com/in/marco-cuoci-259231151/)
