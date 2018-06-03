@@ -27,7 +27,7 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 ## Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
-Basically, whenever the sensor detects a movement, the Nucleo Board will send a HTTP Request to the Back-end.<br>
+Whenever the sensor detects a movement, the Nucleo Board will send an HTTP Request to the Back-end.<br>
 The IOT-Application will send to the Telegram chat the current snapshot.
 Same thing happens when the user sends a command message to the Telegram Bot.
 
@@ -67,10 +67,10 @@ On the side of the Raspberry, it will send every second the current snapshot. Th
   
 </p>
 
-We decided to use Azure IOT because it's free and we consider it the most intuitive cloud for this kind of applications.
+We decided to use Azure IOT because it's free and we consider it the most intuitive cloud service for this kind of applications.
 The only requirement is to give the credit card credentials, even though we didn't buy any extra service for the project.
 
-TelegramBot chat service was chosen because we consider Telegram one of the best chat systems in the marke, which gives the opportunity to use its API and is fully responsive. The creation of the bot was done directly from Telegram using BotFather. The dealing of the commands has been managed in the IOT-Application.
+TelegramBot chat service was chosen because we consider Telegram one of the best chat systems in the market, which gives the opportunity to use its API and it is fully responsive. The creation of the bot was done directly from Telegram using BotFather. The dealing of the commands has been managed in the IOT-Application.
 
 ## Code
 The code is composed by:
