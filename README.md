@@ -106,9 +106,9 @@ Based on the payload message we get in the chat we understand what kind of snaps
 We started the project in the beginning of May and ended for the 1st of June, day of the final submission and presentation.
 
 # Project Members - Contacts
-+ Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
-+ Linkedin: [David Ghedalia](https://www.linkedin.com/in/david-ghedalia/)
-+ Linkedin: [Marco Cuoci](https://www.linkedin.com/in/marco-cuoci-259231151/)
++ Davide Gimondo: [Linkedin](https://www.linkedin.com/in/davegimo/) [GitHub](https://github.com/davegimo)
++ David Ghedalia: [Linkedin](https://www.linkedin.com/in/david-ghedalia/) [GitHub](https://github.com/davidghedix)
++ Marco Cuoci: [Linkedin](https://www.linkedin.com/in/marco-cuoci-259231151/) [GitHub](https://github.com/Marcvs101)
 
  ##
  ![Logo](https://github.com/davegimo/RemoteControlService/blob/master/photos/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com%20(1).png "Sapienza")
