@@ -37,7 +37,7 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 + Smartphone
 
 
-##### Raspberry Pi 3 is connected to the webcam    &emsp;  &emsp;     STM Nucleo Board connected to movement sensors
+##### Raspberry Pi 3 is connected to the webcam    &emsp; &emsp; &emsp;     STM Nucleo Board connected to movement sensors
 <p float="left">
   <img src="https://github.com/davegimo/RemoteControlService/blob/master/rasp2.jpeg" width="300" height="300" />
   &emsp;
