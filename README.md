@@ -88,7 +88,7 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + "Eccoti servito!" in this case the user made an explicit request by sending the command inside the chat
 + "movement detected!" in this case our movement sensor has detected something
 
-<img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/telegram_foto.jpeg" width="200" height="400" />
+<img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/telegram_foto.jpeg" width="300" height="600" />
 
 ### Commands
 
