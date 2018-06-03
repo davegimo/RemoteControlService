@@ -27,7 +27,7 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 ## Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
-Basically, whenever the sensor detects a movement, the Nucleo Board will send a HTTP Request to the Back-end.
+Basically, whenever the sensor detects a movement, the Nucleo Board will send a HTTP Request to the Back-end.<br>
 The IOT-Application will send to the Telegram chat the current snapshot.
 Same thing happens when the user sends a command message to the Telegram Bot.
 
