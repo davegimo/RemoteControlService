@@ -1,4 +1,4 @@
-# RemoteControlService  &emsp; &emsp; &emsp;<img src="https://github.com/davegimo/RemoteControlService/blob/master/Installare-telecamere-di-sicurezza-ip.jpg" width="160" height="100" />
+# RemoteControlService 
 
 ### Abstract
 
