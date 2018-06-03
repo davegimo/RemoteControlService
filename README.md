@@ -85,8 +85,8 @@ Our Telegram chat overview:
 
 Based on the payload message we get in the chat we understand what kind of snapshot we received:
 
-+"Eccoti servito!" in this case the user made an explicit request by sending the command inside the chat
-+"movement detected!" in this case our movement sensor has detected something
++ "Eccoti servito!" in this case the user made an explicit request by sending the command inside the chat
++ "movement detected!" in this case our movement sensor has detected something
 
 <img src="https://github.com/davegimo/RemoteControlService/blob/master/telegram_foto.jpeg" width="200" height="400" />
 
