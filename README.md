@@ -67,7 +67,9 @@ On the side of the Raspberry, it will send every second the current snapshot. Th
   
 </p>
 
-
+We decided to use Azure IOT because it's free and we consider it the most intuitive cloud for this kind of applications.
+The only requirement is to give the credit card credentials, even though we didn't buy any extra service for the project.
+TelegramBot chat service was chosen because we consider Telegram one of the best chat systems in the marke, which gives the opportunity to use its API and is fully responsive. The creation of the bot was done directly from Telegram using BotFather. The dealing of the commands has been managed in the IOT-Application.
 
 ## Code
 The code is composed by:
