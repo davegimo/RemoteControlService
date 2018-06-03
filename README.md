@@ -43,10 +43,10 @@ On the side of the Raspberry, it will send every second the current snapshot. Th
 
 ##### Raspberry Pi 3 is connected to the webcam    &emsp; &emsp; &emsp;     STM Nucleo Board connected to movement sensors
 <p float="left">
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/rasp2.jpeg" width="300" height="300" />
+  <img src="https://github.com/davegimo/RemoteControlService/blob/photos/master/rasp2.jpeg" width="300" height="300" />
   &emsp;
   &emsp;
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/nucleo2.jpeg" width="300" height="300"/> 
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/nucleo2.jpeg" width="300" height="300"/> 
   
 </p>
 
@@ -60,10 +60,10 @@ On the side of the Raspberry, it will send every second the current snapshot. Th
 
 
 <p float="left">
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/botfather.jpg" width="180" height="260" />
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/botfather.jpg" width="180" height="260" />
   &emsp;
   &emsp;
-  <img src="https://github.com/davegimo/RemoteControlService/blob/master/microsoft-azure.jpg" width="400" height="200"/> 
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/microsoft-azure.jpg" width="400" height="200"/> 
   
 </p>
 
@@ -88,7 +88,7 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + "Eccoti servito!" in this case the user made an explicit request by sending the command inside the chat
 + "movement detected!" in this case our movement sensor has detected something
 
-<img src="https://github.com/davegimo/RemoteControlService/blob/master/telegram_foto.jpeg" width="200" height="400" />
+<img src="https://github.com/davegimo/RemoteControlService/blob/master/photos/telegram_foto.jpeg" width="200" height="400" />
 
 ### Commands
 
@@ -103,5 +103,5 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + Linkedin: [Marco Cuoci](https://www.linkedin.com/in/marco-cuoci-259231151/)
 
  ##
- ![Logo](https://github.com/davegimo/RemoteControlService/blob/master/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com.png "Sapienza")
+ ![Logo](https://github.com/davegimo/RemoteControlService/blob/master/photos/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com.png "Sapienza")
 
