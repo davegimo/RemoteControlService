@@ -54,6 +54,17 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 + Telegram ChatBot
 
 
+
+<p float="left">
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/botfather.jpeg" width="300" height="400" />
+  &emsp;
+  &emsp;
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/microsoft-azure.jpeg" width="600" height="300"/> 
+  
+</p>
+
+
+
 ## Code
 The code is composed by:
 
