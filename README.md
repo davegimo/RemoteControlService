@@ -75,10 +75,10 @@ TelegramBot chat service was chosen because we consider Telegram one of the best
 ## Code
 The code is composed by:
 
-+ STM Nucleo Board code
-+ Raspberry Pi 3 code
-+ IOT Hub & Application code
-+ Telegram Manager code
++ [STM Nucleo Board code](https://github.com/davegimo/RemoteControlService/tree/master/Sensor%20Network)
++ [Raspberry Pi 3 code](https://github.com/davegimo/RemoteControlService/tree/master/Raspberry)
++ [IOT Hub & Application](https://github.com/davegimo/RemoteControlService/tree/master/IOT_Hub)
++ [Telegram Manager code](https://github.com/davegimo/RemoteControlService/tree/master/Telegram)
 
 ## Telegram
 Our Telegram chat overview:
