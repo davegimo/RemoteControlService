@@ -28,14 +28,6 @@ You can check the SlideShare presentation [here](https://www.slideshare.net/Davi
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
 
-## Code
-The code is composed by:
-
-+ STM Nucleo Board code
-+ Raspberry Pi 3 code
-+ IOT Hub code
-+ Telegram Manager code
-
 ## Hardware 
 
 + Webcam
@@ -43,6 +35,32 @@ The code is composed by:
 + STM Nucleo Board
 + Movement sensor
 + Smartphone
+
+
+Raspberry Pi 3 is connected to the webcam    &emsp;  &emsp;     STM Nucleo Board connected to movement sensors
+<p float="left">
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/rasp2.jpeg" width="300" height="300" />
+  &emsp;
+  &emsp;
+  <img src="https://github.com/davegimo/RemoteControlService/blob/master/nucleo2.jpeg" width="300" height="300"/> 
+  
+</p>
+
+
+
+## Technologies 
+
++ Azure IOT (Hub & Application)
++ Telegram ChatBot
+
+
+## Code
+The code is composed by:
+
++ STM Nucleo Board code
++ Raspberry Pi 3 code
++ IOT Hub code
++ Telegram Manager code
 
 
 
