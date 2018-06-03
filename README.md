@@ -17,6 +17,11 @@ Those snapshots will be sent inside the Telegram chat.
 In an advanced stage, we developed a Beta functionality: the user can record a video up to 30 seconds, through two commands.
 This feature has been implemented and then presented for the final submission. 
 
+## User-Evaluation
+
+todo
+
+
 ## Idea
 The idea was born during a talk with other colleagues; most of them, who shared a room or an apartment with other students,
 agreed that there is a lack of cheap solutions to improve security in this kind of context. 
@@ -96,6 +101,9 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + start : webcam will start recording up to 30 seconds
 + stop : webcam stops recording and sends the video to the chat
 
+### Conclusions
+
+We started the project in the beginning of May and ended for the 1st of June, day of the final submission and presentation.
 
 # Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
