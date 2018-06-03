@@ -1,4 +1,4 @@
-# RemoteControlService                        
+# RemoteControlService     <br>   <img src="https://github.com/davegimo/RemoteControlService/blob/master/Sapienza_Universit___di_Roma-logo-C9225434E8-seeklogo.com.png" alt="Drawing" width="250" height="75"/>                
 
 ### Abstract
 Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sapienza Università di Roma
