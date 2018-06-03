@@ -1,11 +1,25 @@
 # RemoteControlService  
 
 ### Abstract
-Internet of Things group-project for Pervasive Systems class A.Y. 2017-18 at Sapienza Università di Roma
+
+Remote Control Service is an accademic project developed for the Pervasive System class at Sapienza Università di Roma, Master Degree in Computer Engineering A.Y. 2017-18
+The goal of the project is to provide a cheap and versatile monitoring system, in order to make your room safer.
+The main advantage of our solution, compared to the existing services on the market, is the possibility to access the sensors through a Telegram chat terminal.
+
+#### MVP
+The initial goal of the project was to equip the system with two simple functionalities:
+
++ Send current snapshot from the camera whenever the movement sensor detects a change in the environment
++ Send current snapshot from the camera whenever the user sends a command through the Telegram chat
+
+Those snapshots will be sent inside the Telegram chat.
+
+In an advanced stage, we developed a Beta functionality: the user can record a video up to 30 seconds, through two commands.
+This feature has been implemented and then presented for the final submission. 
 
 ## Idea
-
-The idea is to create a cheap monitoring system that sends messages and photos on Telegram whenever somebody enters in a room using IOT hardware devices.
+The idea was born during a talk with other colleagues; most of them, who shared a room or an apartment with other students,
+agreed that there is a lack of cheap solutions to improve security in this kind of context. 
 
 ## Presentation
 You can check the SlideShare presentation [here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
