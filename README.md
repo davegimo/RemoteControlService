@@ -19,8 +19,7 @@ This feature has been implemented and then presented for the final submission.
 
 ## User-Evaluation
 
-todo
-
+The evaluation has been performed with six people. We explained the main task and let them try the Telegram interface. Even if not all of them had already used Telegram bots, the managed to carry on the two functions, recording a video or getting a snapshot. In particular, they appreciated the fact that they could benefit of this service inside a famous communication platform, such as Telegram.
 
 ## Idea
 The idea was born during a talk with other colleagues; most of them, who shared a room or an apartment with other students,
@@ -100,10 +99,6 @@ Based on the payload message we get in the chat we understand what kind of snaps
 + send photo : it will send the current snapshot
 + start : webcam will start recording up to 30 seconds
 + stop : webcam stops recording and sends the video to the chat
-
-### Conclusions
-
-We started the project in the beginning of May and ended for the 1st of June, day of the final submission and presentation.
 
 # Project Members - Contacts
 + Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)  
