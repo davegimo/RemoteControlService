@@ -27,7 +27,7 @@ The idea was born during a talk with other colleagues; most of them, who shared 
 agreed that there is a lack of cheap solutions to improve security in this kind of context. 
 
 # Presentation
-You can check the SlideShare presentation [here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
+![You can check the SlideShare presentation here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
 
 # Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
