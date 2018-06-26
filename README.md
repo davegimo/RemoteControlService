@@ -28,17 +28,23 @@ This feature has been implemented and then presented for the final submission.
 # Architecture
 ![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/dd.png "architecture")
 
-Whenever the sensor detects a movement, the Nucleo Board will send an HTTP Request to the Back-end.<br>
+Whenever the sensor detects a movement, the Nucleo Board will send an HTTP Request to the Back-end, through the use of a special "Central Hub".<br>
 The IOT-Application will send to the Telegram chat the current snapshot.
 Same thing happens when the user sends a command message to the Telegram Bot.
 
 On the side of the Raspberry, it will send every second the current snapshot. This way the Application of our Back-End is always updated and doesn't have to send an explicit request to the Raspberry.
+
+Note:
+The Nucleo boards (can be more than one) are linked to a central Hub via short range radio modules connected via UART, configured to work in broadcast mode.
+The central Hub will then carry out the HTTP call to the server, throttling other calls if necessary.
+
 ## Hardware 
 
 + Webcam
 + Raspberry
 + STM Nucleo Board
 + Movement sensor
++ 433MHz Radio modules
 + Smartphone
 
 
