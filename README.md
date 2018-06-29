@@ -26,7 +26,7 @@ This feature has been implemented and then presented for the final submission.
 [You can check the SlideShare presentation here](https://www.slideshare.net/DavideGimondo/remote-control-service-99721976)
 
 # Architecture
-![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/architettura.png "architecture")
+![Architecture](https://github.com/davegimo/RemoteControlService/blob/master/archi.png "architecture")
 
 Whenever the sensor detects a movement, the Nucleo Board will send an HTTP Request to the Back-end, through the use of a special "Central Hub".<br>
 The IOT-Application will send to the Telegram chat the current snapshot.
